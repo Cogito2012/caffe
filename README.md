@@ -1,3 +1,7 @@
+## Caffe branch to support Faster RCNN  
+Modified from BVLC caffe rc2 version  
+Date: 2016/08/21  
+
 # Caffe
 
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
